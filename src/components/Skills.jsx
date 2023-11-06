@@ -38,9 +38,8 @@ export const Skills = () => {
             <div className="skill-bx">
               <h2>Skills</h2>
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry.<br></br> Lorem Ipsum has been the industrys standard
-                dummy text.
+                HTML/CSS, JavaScript (React, Typescript, Redux, Bootstrap,
+                Material UI, Tailwindcss)
               </p>
               <Carousel
                 responsive={responsive}
@@ -52,17 +51,18 @@ export const Skills = () => {
                   <h5>Web Development</h5>
                 </div>
                 <div className="item">
-                  <img src={meter2} alt="Image" />
-                  <h5>Brand Identity</h5>
+                  <img src={meter1} alt="Image" />
+                  <h5>HTML/CSS</h5>
                 </div>
                 <div className="item">
-                  <img src={meter3} alt="Image" />
+                  <img src={meter2} alt="Image" />
                   <h5>Logo Design</h5>
                 </div>
                 <div className="item">
                   <img src={meter1} alt="Image" />
-                  <h2>Web Development</h2>
+                  <h5>Tailwindcss</h5>
                 </div>
+             
               </Carousel>
             </div>
           </Col>

@@ -62,17 +62,18 @@ export const Banner = () => {
                     {`Hi! I'm wafaa`}{" "}
                     <span
                       className="txt-rotate"
-                      data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'
+                      data-rotate='[ "Web Developer", "Web Designer" ]'
                     >
                       <span className="wrap">{text}</span>
                     </span>
                   </h1>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industrys
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book.
+                    A Junior web developer skilled in creating responsive web
+                    applications. Passionate about learning new technologies and
+                    working with dedicated teams to build efficient and robust
+                    applications that fit user needs. Meet a skilled front-end
+                    developer with 2 years of experience in Reactjs. Equipped
+                    with experience in Tailwindcss.
                   </p>
                   <button onClick={() => console.log("connect")}>
                     Let’s Connect <ArrowRightCircle size={25} />

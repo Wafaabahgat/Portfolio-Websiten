@@ -1,5 +1,0 @@
-import carousel 
-
-const Skills ()=>{
-
-}
